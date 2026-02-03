@@ -1,6 +1,5 @@
 # ibadan-transportation-analysis
 Urban transportation analysis using Python, Excel, and Power BI
-This repository contains all the materials used in my tutorial on YouTube.
 
 ## What's Inside
 - **dataset/** – Raw and cleaned datasets used in the project
